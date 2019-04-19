@@ -87,7 +87,7 @@
 # Experience widget
 
 - id: present
-  translation: Present
+  translation: Presente
 
 # Pages widget
 
@@ -106,16 +106,16 @@
 # Contact widget
 
 - id: contact_name
-  translation: Name
+  translation: Nombre
 
 - id: contact_email
-  translation: Email
+  translation: Correo electrónico
 
 - id: contact_message
-  translation: Message
+  translation: Mensaje
 
 - id: contact_send
-  translation: Send
+  translation: Enviar
 
 - id: book_appointment
   translation: Book an appointment

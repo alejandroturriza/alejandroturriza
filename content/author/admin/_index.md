@@ -13,13 +13,13 @@ role = "Desarrollador Back-end"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Godster", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Soy un apacionado de Arduino y la domótica. En mis tiempos libre disfruto de correr y leer sobre nuevas tecnologías."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "galejandro.turriza@gmail.com"
+email = ""
 
 # List (academic) interests or hobbies
 interests = [
@@ -77,7 +77,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Soy Desarrollador Back-end en <a href="https://godster.com">Godster</a>, 
+Soy Desarrollador Back-end en <a href="https://godster.com">Godster</a>.
 
-Mi fascinación de toda la vida por los productos agricolas, me ha llevado a los microcontroladores y aprender sobre Arduino, para la automatización en las etapas de cultivo.
+Mi fascinación de toda la vida por los proceso agricola, me ha llevado a los microcontroladores y aprender sobre Arduino, para la automatización en las etapas de cultivo.
 En mi tiempo libre, disfruto investigando y leyendo sobre tecnología.
