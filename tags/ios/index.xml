@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Alejandro Turriza</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on Alejandro Turriza</description>
+    <title>IOS on Alejandro Turriza</title>
+    <link>/tags/ios/</link>
+    <description>Recent content in IOS on Alejandro Turriza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Apr 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,17 +20,6 @@
       <description>Godster es una aplicación cristiana creada para acercar a los usuarios a los musicos y predicadores.
 Reinventamos el concepto de lista de reproducción que nos permite contruirlo desde música, conferencias y versos biblicos en audio.
 Al cuál llamamos &lt;code&gt;GODCAST&lt;/code&gt;.</description>
-    </item>
-    
-    <item>
-      <title>Otros</title>
-      <link>/project/others/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/project/others/</guid>
-      <description>Muchos de los sistemas y aplicaciones que he ayudado a crear se han actualizado o eliminado
- debido a la evolución de las tecnologías. Es por eso que hoy en día no se pueden encontrar. Si desea conocer
- la lista en lo que he trabajado, no dude en visitar mi perfil de Linkedin.</description>
     </item>
     
   </channel>

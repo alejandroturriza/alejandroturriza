@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
+      <title>Otros</title>
+      <link>/project/others/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/project/external-project/</guid>
-      <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
+      <guid>/project/others/</guid>
+      <description>Muchos de los sistemas y aplicaciones que he ayudado a crear se han actualizado o eliminado
+ debido a la evolución de las tecnologías. Es por eso que hoy en día no se pueden encontrar. Si desea conocer
+ la lista en lo que he trabajado, no dude en visitar mi perfil de Linkedin.</description>
     </item>
     
   </channel>
