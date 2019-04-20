@@ -52,10 +52,10 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "support@alejandroturriza.dev"
 phone = "55 8795 5070"
-address = "Calz. México-Tacuba 1523"
+address = "Ciudad de México"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Siempre disponible"""
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
